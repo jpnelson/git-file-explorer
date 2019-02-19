@@ -4,6 +4,10 @@
   "description": "Browse changed files (or any git command) in the file explorer",
   "version": "0.1.0",
   "publisher": "nelsonjoshpaul",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jpnelson/git-file-explorer"
+  },
   "engines": {
     "vscode": "^1.31.0"
   },
