@@ -2,7 +2,7 @@
   "name": "git-file-explorer",
   "displayName": "git-file-explorer",
   "description": "Browse changed files (or any git command) in the file explorer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "nelsonjoshpaul",
   "repository": {
     "type": "git",
