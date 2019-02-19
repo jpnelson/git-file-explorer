@@ -8,11 +8,11 @@ For example, by default, you can browse changes that are not yet present on a ma
 git --no-pager diff `git merge-base HEAD origin/master` --name-only -z
 ```
 
-\!\[Browsing with the file explorer\]\(images/git-file-explorer-screenshot.png\)
+![Browsing with the file explorer](images/git-file-explorer-screenshot.png)
 
 ## Features
 
-\!\[File explorer screenshot\]\(images/git-file-explorer-animation.gif\)
+![File explorer screenshot](images/git-file-explorer-animation.gif)
 
 ## Extension Settings
 
